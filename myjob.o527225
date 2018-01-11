@@ -1,0 +1,3 @@
+Number of users = 943 | Number of movies = 1682
+User-based CF RMSE: 3.128763766416286
+Item-based CF RMSE: 3.455560306244683

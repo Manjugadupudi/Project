@@ -1,0 +1,13 @@
+data is in the folder  named ml-100k.
+
+myjob.o527225 is the output file.
+
+myjob.e527225 is the error file.
+
+Project.py is python code used to run in stampede2.
+
+Project.ipynb is jupyter notebook code developed on local system.
+
+stampede2.job file is used to run Project.py code on stampede2.
+
+Movie Recommendation System.pdf is the project report.
